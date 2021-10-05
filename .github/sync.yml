@@ -4,4 +4,4 @@ group:
     VinaySingh4/testrepo2@dev
   files: 
     - source: index.html
-      dest: target/index.html
+      dest: index.html
