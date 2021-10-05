@@ -1,0 +1,7 @@
+group:
+  repos: |
+    VinaySingh4/testrepo1@dev
+    VinaySingh4/testrepo@dev
+  files: 
+    - source: index.html
+      dest: target/index.html
